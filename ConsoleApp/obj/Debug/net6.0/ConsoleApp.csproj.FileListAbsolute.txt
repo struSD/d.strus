@@ -1,0 +1,15 @@
+C:\Users\danul\Desktop\d.strus\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\danul\Desktop\d.strus\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\danul\Desktop\d.strus\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\danul\Desktop\d.strus\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\danul\Desktop\d.strus\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\danul\Desktop\d.strus\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\danul\Desktop\d.strus\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danul\Desktop\d.strus\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danul\Desktop\d.strus\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\danul\Desktop\d.strus\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danul\Desktop\d.strus\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\danul\Desktop\d.strus\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\danul\Desktop\d.strus\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\danul\Desktop\d.strus\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\danul\Desktop\d.strus\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
